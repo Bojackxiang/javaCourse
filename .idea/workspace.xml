@@ -1,7 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="267b8641-4c75-4d5c-9589-46e1fc5b616f" name="Default Changelist" comment="" />
+    <list default="true" id="267b8641-4c75-4d5c-9589-46e1fc5b616f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/alex/Chapter12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/alex/Components/Chapter12Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/alex/Test/Chappier2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/META-INF/javaPractice.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Chapter1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Chapter1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Chapter10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Chapter10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Chapter11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Chapter11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Chapter2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Chapter2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Chapter3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Chapter3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Chapter4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Chapter4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Chapter5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Chapter5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Chapter6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Chapter6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Chapter7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Chapter7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Chapter8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Chapter8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Chapter9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Chapter9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Chapter9Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Chapter9Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/AbstractAnimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/AbstractAnimal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/AbstractDog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/AbstractDog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/Bike.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/Bike.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/Chapter11Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/Chapter11Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/Chapter11Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/Chapter11Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/Daughter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/Daughter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/Father.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/Father.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/Master.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/Master.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/Snak.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/Snak.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/Son.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/Son.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/StaticClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/StaticClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Components/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Enum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Enum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Interfaces/CarDriftInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Interfaces/CarDriftInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Interfaces/CarImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Interfaces/CarImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Interfaces/CarInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Interfaces/CarInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Interfaces/Impl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Interfaces/Impl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Interfaces/NewInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Interfaces/NewInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Interfaces/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Interfaces/Run.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Interfaces/Speak.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Interfaces/Speak.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Test/Chapter10Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPractice/com/alex/Test/Chapter10Test.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,10 +72,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bvSQJaJR7qtInFV9FFdmPwOlzH" />
   <component name="ProjectViewState">
@@ -38,17 +88,24 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.Chapter11">
-    <configuration name="Chapter1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.Chapter1" />
+  <component name="RunManager" selected="Application.Chapter12">
+    <configuration name="Chappier2Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.Test.Chappier2Test" />
       <module name="javaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alex.Components.*" />
+          <option name="PATTERN" value="com.alex.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chapter8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alex.Chapter8" />
+    <configuration name="Chapter12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alex.Chapter12" />
       <module name="javaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.alex.Components.*" />
+          <option name="PATTERN" value="com.alex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,13 +167,25 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Chapter12" />
+        <item itemvalue="Application.Chappier2Test" />
         <item itemvalue="Application.Chapter11" />
         <item itemvalue="Application.Chapter10" />
         <item itemvalue="Application.Chapter9" />
-        <item itemvalue="Application.Chapter8" />
-        <item itemvalue="Application.Chapter1" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -138,6 +207,8 @@
       <workItem from="1590826586834" duration="2172000" />
       <workItem from="1590828930855" duration="738000" />
       <workItem from="1590897944001" duration="12024000" />
+      <workItem from="1591005845043" duration="4808000" />
+      <workItem from="1591066444591" duration="1636000" />
     </task>
     <servers />
   </component>
@@ -149,33 +220,46 @@
       <screen x="0" y="23" width="1735" height="1097" />
     </state>
     <state x="524" y="236" key="#Plugins/0.23.1735.1097@0.23.1735.1097" timestamp="1590731233369" />
-    <state x="709" y="251" key="#com.intellij.ide.util.MemberChooser" timestamp="1590921074756">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state x="2440" y="162" key="#com.intellij.ide.util.MemberChooser" timestamp="1591010714145">
+      <screen x="1680" y="-80" width="1920" height="1080" />
     </state>
     <state x="709" y="251" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1590921074756" />
-    <state width="1748" height="270" key="GridCell.Tab.0.bottom" timestamp="1590922684807">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state x="2440" y="162" key="#com.intellij.ide.util.MemberChooser/1680.-80.1920.1080/0.0.1680.1050@1680.-80.1920.1080" timestamp="1591010714145" />
+    <state x="2486" y="356" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1591005877211">
+      <screen x="1680" y="-80" width="1920" height="1080" />
+    </state>
+    <state x="2486" y="356" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/1680.-80.1920.1080/0.0.1680.1050@1680.-80.1920.1080" timestamp="1591005877211" />
+    <state width="1878" height="286" key="GridCell.Tab.0.bottom" timestamp="1591068599238">
+      <screen x="1680" y="-80" width="1920" height="1080" />
     </state>
     <state width="1748" height="270" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1590922684807" />
     <state width="1750" height="271" key="GridCell.Tab.0.bottom/0.23.1735.1097@0.23.1735.1097" timestamp="1590746203190" />
+    <state width="1878" height="286" key="GridCell.Tab.0.bottom/1680.-57.1867.1057/0.23.1680.1027@1680.-57.1867.1057" timestamp="1591010373847" />
+    <state width="1878" height="286" key="GridCell.Tab.0.bottom/1680.-80.1920.1080/0.0.1680.1050@1680.-80.1920.1080" timestamp="1591068599238" />
     <state width="1358" height="271" key="GridCell.Tab.0.bottom/57.23.1735.1097@57.23.1735.1097" timestamp="1589511172339" />
-    <state width="1748" height="270" key="GridCell.Tab.0.center" timestamp="1590922684807">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="1878" height="286" key="GridCell.Tab.0.center" timestamp="1591068599236">
+      <screen x="1680" y="-80" width="1920" height="1080" />
     </state>
     <state width="1748" height="270" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1590922684807" />
     <state width="1750" height="271" key="GridCell.Tab.0.center/0.23.1735.1097@0.23.1735.1097" timestamp="1590746203189" />
+    <state width="1878" height="286" key="GridCell.Tab.0.center/1680.-57.1867.1057/0.23.1680.1027@1680.-57.1867.1057" timestamp="1591010373845" />
+    <state width="1878" height="286" key="GridCell.Tab.0.center/1680.-80.1920.1080/0.0.1680.1050@1680.-80.1920.1080" timestamp="1591068599236" />
     <state width="1358" height="271" key="GridCell.Tab.0.center/57.23.1735.1097@57.23.1735.1097" timestamp="1589511172338" />
-    <state width="1748" height="270" key="GridCell.Tab.0.left" timestamp="1590922684806">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="1878" height="286" key="GridCell.Tab.0.left" timestamp="1591068599235">
+      <screen x="1680" y="-80" width="1920" height="1080" />
     </state>
     <state width="1748" height="270" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1590922684806" />
     <state width="1750" height="271" key="GridCell.Tab.0.left/0.23.1735.1097@0.23.1735.1097" timestamp="1590746203188" />
+    <state width="1878" height="286" key="GridCell.Tab.0.left/1680.-57.1867.1057/0.23.1680.1027@1680.-57.1867.1057" timestamp="1591010373843" />
+    <state width="1878" height="286" key="GridCell.Tab.0.left/1680.-80.1920.1080/0.0.1680.1050@1680.-80.1920.1080" timestamp="1591068599235" />
     <state width="1358" height="271" key="GridCell.Tab.0.left/57.23.1735.1097@57.23.1735.1097" timestamp="1589511172338" />
-    <state width="1748" height="270" key="GridCell.Tab.0.right" timestamp="1590922684807">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="1878" height="286" key="GridCell.Tab.0.right" timestamp="1591068599237">
+      <screen x="1680" y="-80" width="1920" height="1080" />
     </state>
     <state width="1748" height="270" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1590922684807" />
     <state width="1750" height="271" key="GridCell.Tab.0.right/0.23.1735.1097@0.23.1735.1097" timestamp="1590746203189" />
+    <state width="1878" height="286" key="GridCell.Tab.0.right/1680.-57.1867.1057/0.23.1680.1027@1680.-57.1867.1057" timestamp="1591010373846" />
+    <state width="1878" height="286" key="GridCell.Tab.0.right/1680.-80.1920.1080/0.0.1680.1050@1680.-80.1920.1080" timestamp="1591068599237" />
     <state width="1358" height="271" key="GridCell.Tab.0.right/57.23.1735.1097@57.23.1735.1097" timestamp="1589511172339" />
     <state x="380" y="191" key="SettingsEditor" timestamp="1590918515033">
       <screen x="0" y="0" width="1792" height="1120" />
@@ -183,16 +267,22 @@
     <state x="380" y="191" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1590918515033" />
     <state x="368" y="210" key="SettingsEditor/0.23.1735.1097@0.23.1735.1097" timestamp="1590732823557" />
     <state x="425" y="210" key="SettingsEditor/57.23.1735.1097@57.23.1735.1097" timestamp="1589511089884" />
-    <state x="521" y="405" key="com.intellij.ide.util.TipDialog" timestamp="1590897944715">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state x="2285" y="315" key="com.intellij.ide.util.TipDialog" timestamp="1591066664128">
+      <screen x="1680" y="-80" width="1920" height="1080" />
     </state>
     <state x="521" y="405" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1590897944715" />
     <state x="521" y="405" key="com.intellij.ide.util.TipDialog/0.23.1735.1097@0.23.1735.1097" timestamp="1590731026843" />
+    <state x="2285" y="315" key="com.intellij.ide.util.TipDialog/1680.-80.1920.1080/0.0.1680.1050@1680.-80.1920.1080" timestamp="1591066664128" />
     <state x="578" y="405" key="com.intellij.ide.util.TipDialog/57.23.1735.1097@57.23.1735.1097" timestamp="1589511071804" />
-    <state x="608" y="275" width="693" height="691" key="search.everywhere.popup" timestamp="1590921219613">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state x="2238" y="23" width="803" height="873" key="find.popup" timestamp="1591007480852">
+      <screen x="1680" y="-80" width="1920" height="1080" />
+    </state>
+    <state x="2238" y="23" width="803" height="873" key="find.popup/1680.-80.1920.1080/0.0.1680.1050@1680.-80.1920.1080" timestamp="1591007480852" />
+    <state x="2331" y="185" width="743" height="667" key="search.everywhere.popup" timestamp="1591011494557">
+      <screen x="1680" y="-80" width="1920" height="1080" />
     </state>
     <state x="608" y="275" width="693" height="691" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1590921219613" />
     <state x="589" y="292" width="670" height="676" key="search.everywhere.popup/0.23.1735.1097@0.23.1735.1097" timestamp="1590731217906" />
+    <state x="2331" y="185" width="743" height="667" key="search.everywhere.popup/1680.-80.1920.1080/0.0.1680.1050@1680.-80.1920.1080" timestamp="1591011494557" />
   </component>
 </project>
